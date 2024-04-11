@@ -1,3 +1,4 @@
+Scripts from the manuscript Chen, S., Wu, G., Wang, J. et al. Foreign Li-ion supply reshapes Li-oriented material discovery and lifetime limit of batteries.
 The ipynb document of Calculation_code is a code for calculating the decomposition potential and solubility energy of molecules.
 The excel document of data_Val is a data for the decomposition potential of molecules.
 The excel document of data_sol is a data for the solubility energy of molecules.
