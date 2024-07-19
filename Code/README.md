@@ -1,4 +1,4 @@
-# Hierarchical Clustering Analysis Based on Anodic Limits and Solvation Free Energy of Lithium Salts
+# Agglomerative Hierarchical Clustering Analysis Based on Anodic Limits and Solvation Free Energy of Lithium Salts
 
 ### Description
 This program performs a hierarchical clustering analysis predicated on the anodic limits and solvation free energy of lithium salts. The data for the anodic limits and solvation free energy are obtained through quantum chemical computations.
